@@ -1,4 +1,4 @@
-DROP DATABASE IF IT EXISTS election;
+DROP DATABASE election;
 
 CREATE DATABASE election;
 USE election;
